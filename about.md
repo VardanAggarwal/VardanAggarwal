@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Bridzed is a platform that unites coaching institutes and students. Bridzed helps coaching institutes to target students from a new vantage point.
+Billboards, pamphlets and all other forms of advertising serve one purpose, that is to stand out amidst crowd and attract students to your doorsteps. Bridzed offers not just one but many different ways of advertising that serves the purpose of billboard and pamphlet to Ads on google and Facebook. Join Bridzed and find multiple ways to connect to students
 
-### More Information
+### Contact
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[mohtashim@bridzed.com](mailto:mohtashim@bridzed.com)
