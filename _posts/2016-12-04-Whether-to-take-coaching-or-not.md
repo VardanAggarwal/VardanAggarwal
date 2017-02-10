@@ -2,6 +2,7 @@
 layout: post
 title: Whether to take coaching or not?
 author: Vardan Aggarwal
+category: guidance
 ---
 
 This is a question a lot of us face either as a student, a parent or a mentor. Whenever a student is at a critical junction in their academic life coaching is an option to think of and that’s when a student faces this question. Let’s see why coaching is important and how important it really is.
