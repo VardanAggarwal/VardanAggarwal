@@ -18,6 +18,7 @@ Coaching Institutes helps students in multiple ways:
 * A good teacher also motivates and inspire This helps students in maintaining their focus on the target.
 * Good coaching institutes also provide guidance to students as in what they should do and aim for.
 * A good teacher also spends enough time on clearing doubts of the students. It helps student in converting their weak points into strong ones.
+
 It is not necessary to take coaching and in general one should avoid coaching if possible as self-study helps a lot in personal growth. Consider following points before making a decision whether to choose self-study or not.
 
 * If you don’t have a proper access to internet and at least one mentor then you should prefer coaching institute. While internet is full of information, a lot of it is misleading and contradictory. Relying on internet is useful only when you can spend a lot of time scraping through this information to extract the relevant knowledge.
