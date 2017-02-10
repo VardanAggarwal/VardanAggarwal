@@ -9,23 +9,23 @@ It is of no doubt that formal education in India is not good enough. A student c
 
 Coaching Institutes helps students in multiple ways:
 
-* They provide a proper syllabus, study material and curriculum. This ensures that students are on right track and know what to study and from where.
-* Classroom teaching helps in developing stronger basics and understanding concepts which otherwise may seem tricky and difficult to grasp.
-* For competitive exams coaching provides quick tips and tricks that help solving tricky problems quickly. A lots of examples if covered in classroom helps student feel comfortable around such problems.
-* One may lose concentration and track of studies by oneself. But coaching ensures a regular schedule.
-* Knowing where you stand among all other students is necessary to ensure progress. Regular assessments in the form of tests and assignments helps in knowing where one stands and keeping track of progress.
-* Coaching institutes provide a study environment to student. This leads to mutual growth of all the students.
-* A good teacher also motivates and inspire This helps students in maintaining their focus on the target.
-* Good coaching institutes also provide guidance to students as in what they should do and aim for.
-* A good teacher also spends enough time on clearing doubts of the students. It helps student in converting their weak points into strong ones.
+* They provide a proper **syllabus, study material and curriculum**. This ensures that students are on right track and know what to study and from where.
+* **Classroom teaching** helps in developing **stronger basics** and understanding concepts which otherwise may seem tricky and difficult to grasp.
+* For competitive exams coaching provides quick **tips and tricks** that help solving tricky problems quickly. A lots of examples if covered in classroom helps student feel comfortable around such problems.
+* One may lose concentration and track of studies by oneself. But coaching ensures a **regular schedule**.
+* Knowing where you stand among all other students is necessary to ensure progress. **Regular assessments** in the form of tests and assignments helps in knowing where one stands and keeping track of progress.
+* Coaching institutes provide a **study environment** to student. This leads to mutual growth of all the students.
+* A good teacher also **motivates and inspire** This helps students in maintaining their focus on the target.
+* Good coaching institutes also provide **guidance** to students as in what they should do and aim for.
+* A good teacher also spends enough time on **clearing doubts** of the students. It helps student in converting their weak points into strong ones.
 
 It is not necessary to take coaching and in general one should avoid coaching if possible as self-study helps a lot in personal growth. Consider following points before making a decision whether to choose self-study or not.
 
-* If you don’t have a proper access to internet and at least one mentor then you should prefer coaching institute. While internet is full of information, a lot of it is misleading and contradictory. Relying on internet is useful only when you can spend a lot of time scraping through this information to extract the relevant knowledge.
-* One can easily find a good syllabus and study material over internet, from some senior or friend. But it is not necessarily important that you can follow a curriculum. If you ever have trouble with self-discipline then coaching is your preferred option. Also a coaching institute which follows strict curriculum is essential.
-* Not everyone needs a teacher to understand basics. If you are comfortable with books and understand concepts in one or two reads then coaching will appear a waste of time. Instead enroll for test series to keep track of your performance.
-* A lot of tips and tricks can be found in study material and on internet. If you can practice a lot of problems by yourself then you don’t need a tutor to teach you tricks. But if you are a bit lazy towards practice then a few examples taught in class will be of great help.
-* If you end up having a lots of doubts and don’t have anyone to help then coaching can be a great place for you. Not just teachers but fellow students will teach you a lot and clear many of your doubts. Peer to peer learning is the most important aspect of coaching that can’t be replicated anywhere else.
+* If you don’t have a proper **access to internet** and at least one **mentor** then you should prefer coaching institute. While internet is full of information, a lot of it is misleading and contradictory. Relying on internet is useful only when you can spend a lot of time scraping through this information to extract the relevant knowledge.
+* One can easily find a good syllabus and study material over internet, from some senior or friend. But it is not necessarily important that you can follow a curriculum. If you ever have **trouble with self-discipline** then coaching is your preferred option. Also a **coaching institute which follows strict curriculum** is essential.
+* Not everyone needs a teacher to understand basics. If you are **comfortable with books** and understand concepts in one or two reads then coaching will appear a waste of time. Instead enroll for **test series** to keep track of your performance.
+* A lot of tips and tricks can be found in study material and on internet. If you can **practice a lot of problems** by yourself then you don’t need a tutor to teach you tricks. But if you are a bit lazy towards practice then a few examples taught in class will be of great help.
+* If you end up having a **lots of doubts** and don’t have anyone to help then coaching can be a great place for you. Not just teachers but fellow students will teach you a lot and clear many of your doubts. **Peer to peer learning** is the most important aspect of coaching that can’t be replicated anywhere else.
 * If you choose to study by yourself then ensure that you participate in some mock tests to regularly assess your performance against other students and know progress. A bad result may be a little demotivating but it will also push you to work harder.
  
 
